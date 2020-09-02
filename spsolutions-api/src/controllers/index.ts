@@ -1,0 +1,1 @@
+export { HelloWorldcontroller } from './hello-world-controller';
